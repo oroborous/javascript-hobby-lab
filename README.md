@@ -8,7 +8,7 @@
 
 4. Replace the image in the &lt;aside&gt; to the right with an image representing your hobby.
 
-5. Add a class to the "Did you know?" header. In styles.css, add a rule to italicize the header.
+5. Add a class to the "Did you know?" header. In styles.css, add a rule to [italicize](https://www.w3schools.com/cssref/pr_font_font-style.asp) the header.
 
 6. Replace the "Did you know?" content with an interesting fact about your hobby.
 
